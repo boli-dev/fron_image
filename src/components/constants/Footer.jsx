@@ -35,34 +35,19 @@ function Footer() {
           Dreaming Get Away
         </span>
         <div className="mt-4">
-          <a
-            href="#"
-            className="block text-white font-normal hover:bg-gray-100 rounded"
-          >
+          <a href="#" className="block text-white font-normal rounded">
             A propos
           </a>
-          <a
-            href="#"
-            className="mt-2 block text-white font-normal hover:bg-gray-100 rounded"
-          >
+          <a href="#" className="mt-2 block text-white font-normal  rounded">
             Louer un hébergement
           </a>
-          <a
-            href="#"
-            className="mt-2 block text-white font-normal hover:bg-gray-100 rounded"
-          >
+          <a href="#" className="mt-2 block text-white font-normal rounded">
             Voyages
           </a>
-          <a
-            href="#"
-            className="mt-2 block text-white font-normal hover:bg-gray-100 rounded"
-          >
+          <a href="#" className="mt-2 block text-white font-normal rounded">
             Connexion
           </a>
-          <a
-            href="#"
-            className="mt-2 block text-white font-normal hover:bg-gray-100 rounded"
-          >
+          <a href="#" className="mt-2 block text-white font-normal rounded">
             Inspiration
           </a>
         </div>

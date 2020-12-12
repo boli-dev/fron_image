@@ -3,8 +3,7 @@ import Facebook from '../icons/Facebook';
 
 function Footer() {
   return (
-    <footer className="relative p-6 bg-indigo-500 text-white md:flex md:justify-center md:p-16 md:mx-auto">
-      <div class="absolute inset-0 bg-black opacity-30 h-full flex flex-col" />
+    <footer className="relative p-6 bg-indigo-600 text-white md:flex md:justify-center md:p-16 md:mx-auto">
       <div className="md:w-1/3">
         <span className="text-md text-white">
           Partager vos voyages avec nous
